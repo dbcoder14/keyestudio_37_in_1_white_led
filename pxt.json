@@ -1,5 +1,5 @@
 {
-    "name": "keyestudio_37_in_1_white_led",
+    "name": "keyestudio_37_in_1_leds",
     "description": "",
     "dependencies": {
         "core": "*",
